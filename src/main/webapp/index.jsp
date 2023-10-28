@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Welcome to the Student DevOps Task Tracker</h1>
+    <h1>Welcome to the Upgrad DevOps Coaching</h1>
 
     <form id="task-form">
         <label for="task-input">Task:</label>
