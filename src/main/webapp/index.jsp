@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Welcome to the Upgrad DevOps Coaching</h1>
+    <h1>Welcome to the Upgrad DevOps Coaching and I'm a Student named Gagan</h1>
 
     <form id="task-form">
         <label for="task-input">Task:</label>
