@@ -45,7 +45,7 @@ vi /opt/tomcat/conf/server.xml
 - sudo yum install java-17-amazon-corretto-devel  
 - sudo alternatives --config java
 
-### Added new line and some content 
+### Added new line  
 
 ### Update below config file  
 vi ~/.bashrc  
