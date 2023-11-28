@@ -19,5 +19,10 @@ pipeline {
                 sh 'mvn test'
             }
         }
+        stage('Deploy the Package') {
+            steps {
+                deploy adapters: [tomcat9(credentialsId: 'tomcat-user', path: '', url: 'http://54.167.89.50:8080/')], contextPath: null, war: '**/*.war'
+            }
+        }
     }
 }
