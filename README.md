@@ -46,6 +46,7 @@ vi /opt/tomcat/conf/server.xml
 - sudo alternatives --config java
 
 ### Added new line  
+### Added some content
 
 ### Update below config file  
 vi ~/.bashrc  
