@@ -25,4 +25,9 @@ pipeline {
             }
         }
     }
+    post {
+        always {
+            emailext body: '$DEFAULT_CONTENT', replyTo: 'sujaylethal32@gmail.com', subject: '$DEFAULT_SUBJECT', to: 'sujaylethal32@gmail.com'
+            }
+        }
 }
