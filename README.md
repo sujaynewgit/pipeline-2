@@ -47,6 +47,7 @@ vi /opt/tomcat/conf/server.xml
 
 ### Added new line  
 ### Added some content
+### Added some content and some
 
 ### Update below config file  
 vi ~/.bashrc  
